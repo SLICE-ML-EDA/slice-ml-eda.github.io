@@ -1,10 +1,14 @@
 # SLICE
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+## A Shared Machine Learning Infrastructure for the Community of EDA
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+The SLICE project aims to overcome the barriers to applying machine learning (ML) techniques to electronic design automation (EDA) and chip design problems by building a shareable and extensible infrastructure containing unified design environments, software interfaces between EDA tools and ML platforms, labeled datasets, and pre-trained ML models. Motivated by the spectacular success of the flywheel effect of infrastructure in the broader AI, SLICE aims to create a similar effect for the ML EDA flywheel (shown in Fig. 1) by establishing an open infrastructure. 
+
+![ML EDA Flywheel](./images/flywheel.png)
+
+The infrastructure takes inspiration from the available infrastructure of the ML/AI community, as highlighted in Fig. 2. The SLICE infrastructure consists of EDA tools, datasets, PDKs, tutorials, contests, and educational material. 
+
+## Contents
 
 More specifically, the created site:
 
