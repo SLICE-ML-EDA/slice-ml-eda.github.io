@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-# SLICE-ML-EDA
+# SLICE
 
 ## A Shared Machine Learning Infrastructure for the EDA Community
 
