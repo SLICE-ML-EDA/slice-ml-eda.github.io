@@ -31,7 +31,7 @@ SLICE serves as a one-stop shop and has sourced together several existing effort
 - [Contests](https://slice-ml-eda.github.io/docs/contests.html)
 - [Open-source PDKs](https://slice-ml-eda.github.io/docs/openpdks.html)
 - [NSF Workshop on Shared Infrastructure for ML EDA](https://sites.google.com/view/ml4eda/home)
-- [NSF Workshop Report](NSF_ML4EDA_workshop_report_2023.pdf)
+- [NSF Workshop Report](https://github.com/SLICE-ML-EDA/SLICE/blob/main/NSF_ML4EDA_workshop_report_2023.pdf)
 
 ## How to contribute?
 
