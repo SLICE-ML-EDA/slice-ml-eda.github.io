@@ -12,7 +12,6 @@ The SLICE project aims to overcome the barriers to applying machine learning (ML
 
 <figure>
     <img align = "right" width="50%" alt="ML EDA Flywheel" src="./images/flywheel.png" />
-    <figcaption>ML EDA Flywheel</figcaption>
 </figure>
 
 
