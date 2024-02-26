@@ -11,10 +11,10 @@ SLICE has curated a list of open-source tool flows which can aid in ML EDA resea
 
 ## Digital layout generator tools
 
-* [OpenROAD](https://slice-ml-eda.github.io/docs/datasets.html)
+* [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
     - Application for RTL2GDS
 
-* [iEDA](https://github.com/OSCC-Project/iEDA
+* [iEDA](https://github.com/OSCC-Project/iEDA)
     - Application for RTL2GDS
 
 ## Digital layout flows
@@ -26,7 +26,6 @@ SLICE has curated a list of open-source tool flows which can aid in ML EDA resea
 * [MacroPlacement](https://github.com/TILOS-AI-Institute/MacroPlacement/tree/main/Flows)
     - Commercial (Cadence) and open-source flows (OpenROAD) for RTL2GDS
 
-* 
 
 ## Analog layout generators
 
