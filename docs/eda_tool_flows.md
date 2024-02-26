@@ -5,6 +5,38 @@ nav_order: 6
 has_children: false
 ---
 
-# Creating a sample EDA Tool Flows site
+# Open-source EDA tools and flows 
 
-TESTING 
+SLICE has curated a list of open-source tool flows which can aid in ML EDA research, data collection, and establishing calibrations. 
+
+## Digital layout generator tools
+
+* [OpenROAD](https://slice-ml-eda.github.io/docs/datasets.html)
+    - Application for RTL2GDS
+
+* [iEDA]()
+    - Application for RTL2GDS
+
+## Digital layout flows
+
+* [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts)
+    - RTL2GDS flow scripts develoepd using OpenROAD
+
+* [MacroPlacement](https://github.com/TILOS-AI-Institute/MacroPlacement/tree/main/Flows)
+    - Commercial (Cadence) and open-source flows for RTL2GDS
+
+* 
+
+## Analog layout generators
+
+* [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public)
+    - Analog layout generator
+
+* [MAGICAL](https://github.com/magical-eda/MAGICAL)
+    - Analog layout generator
+
+
+## FPGA IP generators
+
+* [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA)
+
