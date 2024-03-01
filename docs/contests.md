@@ -5,6 +5,5 @@ nav_order: 4
 has_children: false
 ---
 
-# Creating a sample Contests site
-
-TESTING 
+# ML EDA Contests
+TBD

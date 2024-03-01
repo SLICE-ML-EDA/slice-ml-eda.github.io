@@ -5,9 +5,9 @@ nav_order: 5
 has_children: false
 ---
 
-#Open-source PDKs site
+# Open-source PDKs
 
-We have listed open-source PDKs 
+We have listed open-source PDKs and categorized them into manufacturable and virtual PDKs.  
 
 ## Manufacturable PDKs
 
