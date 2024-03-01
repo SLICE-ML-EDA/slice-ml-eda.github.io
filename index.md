@@ -38,7 +38,7 @@ If you have a pointer to a repository for an ML EDA repository that you think is
 
 Minimum requirements: 
 
-* The project is helpful for the ML EDA community and could serve as peice of an infrastructure 
-* The project is working and not rusty
+* The project is helpful for the ML EDA community and could serve as piece of an infrastructure 
+* The project is working condition and not rusty or WIP
 * At least one tag line describing the project
 
