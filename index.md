@@ -23,10 +23,10 @@ The infrastructure takes inspiration from the available infrastructure of the ML
 ## SLICE Contents
 
 SLICE serves as a one-stop shop and has sourced together several existing efforts for benchmarking, dataset collection, tutorials, and has incorporated into its GitHub repostories as a part of SLICE-ML-EDA organization.
- 
+
+- [SLICE MLCAD 2023 Presentation](https://drive.google.com/file/d/1GMc6e2iZq1tavd046mbKlVvbUj-cRbHf/view?ts=662a831e) 
 - [Datasets](https://slice-ml-eda.github.io/docs/datasets.html)
 - [EDA Tool Flows](https://slice-ml-eda.github.io/docs/eda_tool_flows.html)
-- [Tutorials](https://slice-ml-eda.github.io/docs/tutorials.html)
 - [Contests](https://slice-ml-eda.github.io/docs/contests.html)
 - [Open-source PDKs](https://slice-ml-eda.github.io/docs/openpdks.html)
 - [NSF Workshop on Shared Infrastructure for ML EDA](https://sites.google.com/view/ml4eda/home)
