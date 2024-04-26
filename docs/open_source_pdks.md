@@ -19,5 +19,5 @@ We have listed open-source PDKs and categorized them into manufacturable and vir
 
 * [ASAP7](https://github.com/The-OpenROAD-Project/asap7)
 * [ASAP5](https://github.com/The-OpenROAD-Project/asap5)
-* [NanGate45]()
+* [NanGate45](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/nangate45)
 
