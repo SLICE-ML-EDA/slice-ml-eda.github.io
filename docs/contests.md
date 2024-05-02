@@ -19,4 +19,4 @@ SLICE has curated a list of contests that have encouraged the use of machine lea
     - Goal is to stimulate academic research aimed at developing a GPU/ML-enhanced global router tailored for industrial-level circuits 
 
 * [ICCAD 2024 Logic Gate Sizing Using ML](https://drive.google.com/file/d/12fvhDTtsN74X2qDZYsIvyCret5JHENzk/view)
-    - 
+    - Goal is to incentivize the use of ML and GPU-acceleration for logic gate sizing.    
