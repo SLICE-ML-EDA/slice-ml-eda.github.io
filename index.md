@@ -19,6 +19,8 @@ The infrastructure takes inspiration from the available infrastructure of the ML
 
 <img align = "right" width="50%" alt="ML EDA Infrastructure inspired from ML community" src="./images/analogy.png">
 
+SLICE is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA) for this initiative. 
+
 
 ## SLICE Contents
 
