@@ -47,11 +47,10 @@ Minimum requirements:
 
 The SLICE initiative is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA).
 
-<br>
 
-<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/ceda_logo.png">
+<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/ceda_logo.png" style="display:inline-block;">
 
-<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/sigda_logo.png">
+<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/sigda_logo.png" style="display:inline-block;">
 
 <br>
 
