@@ -32,7 +32,7 @@ SLICE serves as a one-stop shop and has sourced together several existing effort
 - [NSF Workshop on Shared Infrastructure for ML EDA](https://sites.google.com/view/ml4eda/home)
 - [NSF Workshop Report](https://github.com/SLICE-ML-EDA/SLICE/blob/main/NSF_ML4EDA_workshop_report_2023.pdf)
 
-## How to contribute?
+## How to Contribute?
 
 If you have a pointer to a repository for an ML EDA repository that you think is relevant, create a pull request, or file a issue with the pointer to the SLICE website [GitHub repository](https://github.com/SLICE-ML-EDA/slice-ml-eda.github.io). 
 
@@ -48,10 +48,11 @@ Minimum requirements:
 The SLICE initiative is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA).
 
 
-<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/ceda_logo.png" style="display:inline-block;">
+<img align = "left" height="25%" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/ceda_logo.png">
 
-<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/sigda_logo.png" style="display:inline-block;">
+<img align = "left" height="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/sigda_logo.png">
 
+<br clear ="left">
 <br>
 
 The SLICE initiative is led by Texas A&M Universiy (TAMU). Other participating institutes include University of Minnesota (UMN), Universit of California, San Diego (UCSD), Duke University, Arizona State University (ASU), and Georgia Institute of Technology (GaTech). 
