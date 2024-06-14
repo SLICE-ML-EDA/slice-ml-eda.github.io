@@ -45,9 +45,14 @@ Minimum requirements:
 
 ## SLICE Sponsors and Partners
 
-The SLICE initiative is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA). 
+The SLICE initiative is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA).
+
+<br>
 
 <img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/ceda_logo.png">
+
 <img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/sigda_logo.png">
+
+<br>
 
 The SLICE initiative is led by Texas A&M Universiy (TAMU). Other participating institutes include University of Minnesota (UMN), Universit of California, San Diego (UCSD), Duke University, Arizona State University (ASU), and Georgia Institute of Technology (GaTech). 
