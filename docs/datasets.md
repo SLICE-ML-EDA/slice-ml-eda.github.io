@@ -22,9 +22,10 @@ SLICE has curated a list of available open-source datasets for ML EDA applicatio
     - Datasets for congestion, DRC, IR drop, and net delay estimation
 * [Artificial netlist generator](https://github.com/daeyeon22/artificial_netlist_generator)
     - Gate-level technology-independent netlist generator
-
-* [Verilog dataset for LLMs](https://github.com/shailja-thakur/VGen)
+* [VeriGen](https://github.com/shailja-thakur/VGen)
     - Dataset to train large language models for verilog generation
+* [Open-ABCD](https://github.com/NYU-MLDA/OpenABC)
+    - Large scale dataset for logic synthesis
 
 ## Analog circuit design
 * [ALIGN Circuits Database](https://github.com/ALIGN-analoglayout/ALIGN-public/tree/master/CircuitsDatabase)
