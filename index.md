@@ -19,8 +19,6 @@ The infrastructure takes inspiration from the available infrastructure of the ML
 
 <img align = "right" width="50%" alt="ML EDA Infrastructure inspired from ML community" src="./images/analogy.png">
 
-SLICE is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA) for this initiative. 
-
 
 ## SLICE Contents
 
@@ -44,3 +42,12 @@ Minimum requirements:
 * The project is working condition and not rusty or WIP
 * At least one tag line describing the project
 
+
+## SLICE Sponsors and Partners
+
+The SLICE initiative is supported by both the ACM Special Interest Group on Design Automation (SIGDA) and the IEEE Council on Electronic Design Automation (CEDA). 
+
+<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/ceda_logo.png">
+<img align = "right" width="25%" alt="ML EDA Infrastructure inspired from ML community" src="./images/sigda_logo.png">
+
+The SLICE initiative is led by Texas A&M Universiy (TAMU). Other participating institutes include University of Minnesota (UMN), Universit of California, San Diego (UCSD), Duke University, Arizona State University (ASU), and Georgia Institute of Technology (GaTech). 
